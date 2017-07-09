@@ -1,0 +1,38 @@
+<script>
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif');
+@import url('https://fonts.googleapis.com/css?family=Archivo+Narrow');
+
+body {
+  background-color: grey;
+  outline-style:double;
+  outline-color: #ffffff;
+}
+p{
+  margin: 10px 10px 10px 10px;
+  font-color: #272cad;
+  font-size: 20px;
+  background-color: white;
+  font-family: "Bree Serif","Lucida", "Times New Roman"; 
+  }
+
+ul{
+  font-size: 18px;
+  font-family:"Archivo Narrow","Lucida","Times New Roman";
+  background-color:#adadad;
+}
+.link{
+  font-family: "Archivo Narrow", "Lucida", "Times New Roman";
+  font-size: 18px;
+  }
+h1{
+  padding: 50px 0,
+  text-align: center;   
+}
+
+img{
+  display: block;
+  margin: auto;
+  width: 40%;
+}
+
+</script>
